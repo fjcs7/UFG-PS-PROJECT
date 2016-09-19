@@ -18,9 +18,10 @@ Telas operacionais
 </br><strike>[x] 018 - Entregas 						(visão caixa)</strike>
 
 
-Telas gerenciais
-</br>[Anderson] 010 - Emitir Relatório de Eficiência (visão gerente)
-</br>[Anderson] 011 - Emitir Relatório de Devoluções (visão gerente)
+</br>
+</br>Telas gerenciais
+</br><strike>[x] 010 - Emitir Relatório de Eficiência (visão gerente)</strike>
+</br><strike>[x] 011 - Emitir Relatório de Devoluções (visão gerente)</strike>
 </br><strike>[x] 012a - Cancelamento de pedido 		 (visão Garçom)</strike>
 </br><strike>[x] 012b - Cancelamento de pedido 		 (visão Telefonista)</strike>
 </br><strike>[x] 012b - Cancelamento de pedido 		 (visão Gerente)</strike>
@@ -29,4 +30,5 @@ Telas gerenciais
 </br><strike>[x] 015 - Cadastro de funcionário		 (visão Gerente)</strike>
 </br>[Jerlliani] 016 - Cadastro de Regiões			 (visão Garçom chefe)
 </br><strike>[x] 017 - Aprovação de Regiões			 (visão Gerente)</strike>
+
 
