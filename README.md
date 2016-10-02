@@ -1,11 +1,10 @@
 # UFG-PS-PROJECT
 
 </br><strong>Participantes:</strong>
-
-</br>Anderson Martins
-</br>Fernando Junio Cunha e Sousa (Gerente do projeto)
-</br>Jerlianni Oliveira
-</br>Matheus Santos Carvalho
+</br>ANDERSON MARTINS DIAS
+</br>FERNANDO JUNIO CUNHA E SOUSA (Gerente do projeto)
+</br>JERLIANNI BARBOSA DE OLIVEIRA
+</br>MATHEUS SANTOS CARVALHO
 
 Repositório para armazenar os aquivos do trabalho de Projetos de Software
 O que ainda temos à fazer?
